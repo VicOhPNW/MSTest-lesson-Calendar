@@ -1,0 +1,9 @@
+/Users/victoria/Desktop/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.deps.json
+/Users/victoria/Desktop/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/victoria/Desktop/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/victoria/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.csprojAssemblyReference.cache
+/Users/victoria/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.csproj.CoreCompileInputs.cache
+/Users/victoria/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.AssemblyInfoInputs.cache
+/Users/victoria/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.AssemblyInfo.cs
+/Users/victoria/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.dll
+/Users/victoria/Desktop/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.pdb
